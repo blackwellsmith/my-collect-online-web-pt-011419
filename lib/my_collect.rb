@@ -8,6 +8,6 @@ def my_collect(array)
 end
 
 
-my_collect(collection) do |lang|
+my_collect(laungage) do |lang|
   lang.upcase
 end
